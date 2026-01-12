@@ -1,0 +1,3 @@
+# slidev-starter
+
+🚀 Slidev starter

@@ -1,14 +1,14 @@
 # slidev-starter
 
-🚀 Slidev starter
+🚀 Slidev 起步模板
 
-## Install
+## 安装
 
 ```bash
 npx degit tlyboy/slidev-starter my-project
 ```
 
-## Usage
+## 使用说明
 
 ```bash
 pnpm install
@@ -16,6 +16,6 @@ pnpm dev
 pnpm build
 ```
 
-## License
+## 使用许可
 
 [MIT](https://opensource.org/licenses/MIT) © Guany
